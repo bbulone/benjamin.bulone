@@ -14,7 +14,7 @@ echo '<p>update : 2 déc. 2021 à 16h31 testtt  </p>';
     <form action="">
         <p>Adresse mail</p>
         <input type="email">
-        <button type="submit" value="Envoyer"></button>
+        <input type="submit" value="Envoyer"></button>
     </form>
 
 </div>
