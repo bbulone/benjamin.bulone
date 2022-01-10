@@ -12,8 +12,9 @@ echo '<p>update : 2 déc. 2021 à 16h31 testtt  </p>';
 <div class="monformulaire">
     <h2>Ceci est un beau formulaire</h2>
     <form action="">
-        <input type="text">
-        <button type="submit"></button>
+        <p>Adresse mail</p>
+        <input type="email">
+        <button type="submit" value="Envoyer"></button>
     </form>
 
 </div>
